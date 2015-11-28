@@ -1,0 +1,32 @@
+
+#container {
+
+};
+
+#boiteune {
+border: 2px solid green;
+	margin-top: 100px;
+    margin-right: 500px;
+    margin-left: 30px;
+    margin-bottom: 50px;
+
+}
+
+#boitedeux {
+border: 2px solid blue;
+}
+
+.btn-default {
+	background-color: #C3BFBF;
+	padding-right: 50px;
+	padding-left: 50px;
+}
+
+.btn-primary {
+	background-color: #3A29D2;
+	padding-right: 50px;
+	padding-left: 50px;
+}
+
+em {color: #3A29D2;
+}
